@@ -1,5 +1,5 @@
 # TQuesada
-Hola a todos! Me presento, soy Tomas Quesada y este es mi segundo año en la carrera. Soy de San Miguel (un poco lejos) y termine el Secundario en el Colegio Divina Pastora que tiene orientación a Humanidades.
+Hola a todos! Me presento, soy Tomas Quesada (Legajo 171417-0) y este es mi segundo año en la carrera. Soy de San Miguel (un poco lejos) y termine el Secundario en el Colegio Divina Pastora que tiene orientación a Humanidades.
 
 Tengo un perro que se llama Toto, tiene 10 años y es un cruza entre bretón y cocker.
 
