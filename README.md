@@ -11,6 +11,8 @@ Esperé con muchas ansias esta materia ya que los conocimientos estan fuertement
 
 En cuanto a mí me gusta programar, juntarme con mis amigos, ver a Boca, ver series y jugar a la play. 
 
+*No sé porqué pero se sube la foto rotada*
+
 ![Foto Tomas Quesada](https://user-images.githubusercontent.com/63204305/78507711-1a486180-7758-11ea-9965-dabf5562c7ee.jpg)
 
 ![Toto](https://user-images.githubusercontent.com/63204305/78507742-3b10b700-7758-11ea-89d1-41bea4f04040.jpg)
